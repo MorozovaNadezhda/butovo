@@ -166,6 +166,7 @@ body {
 
 .heading {
   font-family: $font-family;
+  text-align: left;
   font-weight: 300;
   font-size: 49px;
   color: #fff;
@@ -202,6 +203,7 @@ body {
     margin-bottom: 135.26px;
   }
   &__subheading {
+    text-align: left;
     max-width: 473px;
     font-family: $font-family;
     font-weight: 300;
@@ -230,6 +232,8 @@ body {
   }
 
   &__text-content {
+    text-align: left;
+
     max-width: 550px;
     font-family: $font-family;
     font-weight: 400;
@@ -324,6 +328,7 @@ body {
 .speed {
   margin-top: 139px;
   &__wrapper {
+    text-align: left;
     padding-bottom: 82.5px;
     background-image: url('../assets/img/speed-bg-2.png');
     background-repeat: no-repeat;
@@ -501,6 +506,7 @@ body {
   }
 
   &__list {
+    text-align: left;
     display: flex;
     margin-right: auto;
     margin-bottom: 59px;

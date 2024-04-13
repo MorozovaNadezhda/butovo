@@ -290,6 +290,7 @@ body {
 }
 .heading {
   font-family: "SF UI Display", sans-serif;
+  text-align: left;
   font-weight: 300;
   font-size: 49px;
   color: #fff;
@@ -323,6 +324,7 @@ body {
   margin-bottom: 135.26px;
 }
 .home__subheading {
+  text-align: left;
   max-width: 473px;
   font-family: "SF UI Display", sans-serif;
   font-weight: 300;
@@ -349,6 +351,7 @@ body {
   gap: 21px;
 }
 .home__text-content {
+  text-align: left;
   max-width: 550px;
   font-family: "SF UI Display", sans-serif;
   font-weight: 400;
@@ -438,6 +441,7 @@ body {
   margin-top: 139px;
 }
 .speed__wrapper {
+  text-align: left;
   padding-bottom: 82.5px;
   background-image: url("../assets/img/speed-bg-2.png");
   background-repeat: no-repeat;
@@ -609,6 +613,7 @@ body {
      object-fit: cover;
 }
 .price__list {
+  text-align: left;
   display: flex;
   margin-right: auto;
   margin-bottom: 59px;
